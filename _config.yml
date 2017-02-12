@@ -19,13 +19,13 @@ accent-color: '#F62459'     #those apostrophes are important
 
 
 #social
-facebook: https://www.facebook.com/
-twitter: https://twitter.com/
+facebook: 
+twitter: 
 twitter-handle: ''     #for twitter button on author section #those apostrophes are important
 github: https://github.com/shindesharad71
-youtube: https://www.youtube.com/channel/
+youtube: 
 email: mailto:shindesharad71@gmail.com
-feedburner-subscribe: #https://feedburner.google.com
+feedburner-subscribe: 
 
 #Other
 analytics: 
